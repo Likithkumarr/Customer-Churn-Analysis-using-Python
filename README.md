@@ -36,7 +36,7 @@ git clone https://github.com/Likithkumarr/Customer-Churn-Analysis-using-Python.g
 bash<br>
 cd Customer-Churn-Analysis-using-Python<br>
 - Open the Jupyter Notebook:<br>
-bashv
+bash<br>
 jupyter notebook customer_chunk.ipynb<br>
 
 ## 📌 Future Work
